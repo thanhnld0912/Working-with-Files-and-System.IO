@@ -1,0 +1,14 @@
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\bin\Debug\net8.0\BinaryWriterReader.exe
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\bin\Debug\net8.0\BinaryWriterReader.deps.json
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\bin\Debug\net8.0\BinaryWriterReader.runtimeconfig.json
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\bin\Debug\net8.0\BinaryWriterReader.dll
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\bin\Debug\net8.0\BinaryWriterReader.pdb
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.AssemblyInfoInputs.cache
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.AssemblyInfo.cs
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.csproj.CoreCompileInputs.cache
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.dll
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\refint\BinaryWriterReader.dll
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.pdb
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\BinaryWriterReader.genruntimeconfig.cache
+D:\FPT\CN5\PRN212\Code\FileStream\BinaryWriterReader\obj\Debug\net8.0\ref\BinaryWriterReader.dll
